@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/puzztool/static/css/main.1b63357f.chunk.css",
+    "main.css": "/puzztool/static/css/main.80044611.chunk.css",
     "main.js": "/puzztool/static/js/main.24ee81b4.chunk.js",
     "main.js.map": "/puzztool/static/js/main.24ee81b4.chunk.js.map",
     "runtime-main.js": "/puzztool/static/js/runtime-main.9cb425b7.js",
@@ -68,7 +68,7 @@
     "static/css/7.6a7a62b0.chunk.css.map": "/puzztool/static/css/7.6a7a62b0.chunk.css.map",
     "static/css/8.3b67911f.chunk.css.map": "/puzztool/static/css/8.3b67911f.chunk.css.map",
     "static/css/9.aec1c975.chunk.css.map": "/puzztool/static/css/9.aec1c975.chunk.css.map",
-    "static/css/main.1b63357f.chunk.css.map": "/puzztool/static/css/main.1b63357f.chunk.css.map",
+    "static/css/main.80044611.chunk.css.map": "/puzztool/static/css/main.80044611.chunk.css.map",
     "static/js/2.3341214d.chunk.js.LICENSE.txt": "/puzztool/static/js/2.3341214d.chunk.js.LICENSE.txt",
     "static/media/pigpen_key.e4f3b3e2.svg": "/puzztool/static/media/pigpen_key.e4f3b3e2.svg",
     "static/media/puzztool_banner_dark.09d02cea.svg": "/puzztool/static/media/puzztool_banner_dark.09d02cea.svg",
@@ -77,7 +77,7 @@
   "entrypoints": [
     "static/js/runtime-main.9cb425b7.js",
     "static/js/2.3341214d.chunk.js",
-    "static/css/main.1b63357f.chunk.css",
+    "static/css/main.80044611.chunk.css",
     "static/js/main.24ee81b4.chunk.js"
   ]
 }
