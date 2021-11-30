@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/puzztool/static/css/main.83f928bc.chunk.css",
-    "main.js": "/puzztool/static/js/main.682e4c52.chunk.js",
-    "main.js.map": "/puzztool/static/js/main.682e4c52.chunk.js.map",
+    "main.js": "/puzztool/static/js/main.5ace33ae.chunk.js",
+    "main.js.map": "/puzztool/static/js/main.5ace33ae.chunk.js.map",
     "runtime-main.js": "/puzztool/static/js/runtime-main.18e15c5a.js",
     "runtime-main.js.map": "/puzztool/static/js/runtime-main.18e15c5a.js.map",
     "static/js/2.65a29140.chunk.js": "/puzztool/static/js/2.65a29140.chunk.js",
@@ -78,6 +78,6 @@
     "static/js/runtime-main.18e15c5a.js",
     "static/js/2.65a29140.chunk.js",
     "static/css/main.83f928bc.chunk.css",
-    "static/js/main.682e4c52.chunk.js"
+    "static/js/main.5ace33ae.chunk.js"
   ]
 }
